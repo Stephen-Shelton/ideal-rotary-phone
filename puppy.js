@@ -4,6 +4,7 @@
 
 
 let puppy = "hello"
+//why doesnt this work? :(
 for (var i = 0; i < puppy.length; i++) {
   console.log("moo, I am a " + puppy);
 }
