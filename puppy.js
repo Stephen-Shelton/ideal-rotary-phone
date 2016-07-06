@@ -6,3 +6,7 @@ let puppy = "sloth"
 for (var i = 0; i < puppy.length; i++) {
   console.log("moo, I am a " + puppy);
 }
+
+let kitty = "kitty";
+
+var cow = "moomoo";
