@@ -2,7 +2,7 @@
 // Change this file any way you want and try to handle conflicts
 // when you pull --rebase
 
-let puppy = "puppy"
+let puppy = "sloth"
 for (var i = 0; i < puppy.length; i++) {
-  console.log(puppy[i]);
+  console.log("moo, I am a " + puppy);
 }
