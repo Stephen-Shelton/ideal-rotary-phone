@@ -8,3 +8,5 @@ for (var i = 0; i < puppy.length; i++) {
 }
 
 let kitty = "kitty";
+
+var cow = "moomoo";
